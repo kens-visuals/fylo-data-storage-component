@@ -2,6 +2,7 @@ $color-primary: hsl(229, 57%, 11%);
 $color-primary--light: hsl(228, 56%, 26%);
 $color-secondary: hsl(243, 100%, 93%);
 $color-secondary--dark: hsl(229, 7%, 55%);
+$color-secondary--light: hsl(0, 0, 100%);
 
 $gradient-primary: linear-gradient(
   to right,
@@ -52,7 +53,14 @@ html {
 
 body {
   min-height: 100vh;
+  color: $color-secondary;
+  background-image: url('../images/bg-mobile.png');
+  background-repeat: no-repeat;
+  background-size: cover;
   font-size: 1.6rem;
   font-family: 'Raleway', sans-serif;
   text-rendering: optimizeSpeed;
+  display: grid;
+  grid-template-rows: 1fr auto;
+  justify-items: center;
 }
