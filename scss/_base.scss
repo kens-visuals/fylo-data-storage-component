@@ -63,4 +63,11 @@ body {
   display: grid;
   grid-template-rows: 1fr auto;
   justify-items: center;
+
+  @media (min-width: 1140px) {
+    background-color: $color-primary;
+    background-image: url('../images/bg-desktop.png');
+    background-size: 100vw;
+    background-position: bottom center;
+  }
 }
