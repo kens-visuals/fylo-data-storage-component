@@ -134,6 +134,7 @@
     color: rgba($color-secondary--dark, 0.8);
     background-color: $color-secondary--light;
     border-radius: 1rem;
+    border-bottom-right-radius: 0;
     font-size: 1.4rem;
     font-weight: 600;
     text-transform: uppercase;

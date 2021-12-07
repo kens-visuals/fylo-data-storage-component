@@ -203,6 +203,7 @@ body {
   color: rgba(132, 135, 148, 0.8);
   background-color: white;
   border-radius: 1rem;
+  border-bottom-right-radius: 0;
   font-size: 1.4rem;
   font-weight: 600;
   text-transform: uppercase;
