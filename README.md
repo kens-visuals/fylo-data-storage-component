@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Live Site URL: [https://kens-visuals.github.io/fylo-data-storage-component/](https://kens-visuals.github.io/fylo-data-storage-component/)
-- Solution URL: [TO_BE_UPDATED](TO_BE_UPDATED)
+- Solution URL: [https://www.frontendmentor.io/solutions/fylo-data-storage-component-with-css-animations-scss-and-bem-Jc1s4LmUs](https://www.frontendmentor.io/solutions/fylo-data-storage-component-with-css-animations-scss-and-bem-Jc1s4LmUs)
 
 ## My process
 
